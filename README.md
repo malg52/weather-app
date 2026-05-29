@@ -7,10 +7,7 @@ HTML
 CSS
 JavaScript
 
-Features
-  Current weather display
-  Hourly forecast
-  Simple UI
+Features: current weather display, hourly forecast, simple UI
   
 Screenshots
 <img width="783" height="869" alt="image" src="https://github.com/user-attachments/assets/9e057bbc-1bd0-415e-9e1a-8ffce80e8822" />
